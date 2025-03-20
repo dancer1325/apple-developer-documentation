@@ -23,6 +23,8 @@
       * Core settings
         * TODO:
       * Services
+        * [Protected Resources](documentation.bundleresources.protected-resources.md)
+          * TODO:
         * TODO:
       * AVFoundation
         * TODO:
