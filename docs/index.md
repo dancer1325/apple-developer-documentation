@@ -19,7 +19,7 @@
       * TODO:
     * [Information Property List](documentation.bundleresources.information-property-list.md)
       * Essentials
-        * TODO:
+        * [Managing Your App’s Information Property List](documentation.bundleresources.managing-your-app-s-information-property-list.md)
       * Core settings
         * TODO:
       * Services
