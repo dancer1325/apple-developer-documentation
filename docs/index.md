@@ -24,6 +24,21 @@
         * TODO:
       * Services
         * [Protected Resources](documentation.bundleresources.protected-resources.md)
+          * Essentials
+            * TODO:
+          * Bluetooth
+            * TODO:
+          * Calendar and reminders
+            * TODO:
+          * Camera and microphone
+            * TODO:
+          * TODO:
+          * Location
+            * [Choosing the Location Services Authorization to Request](documentation.bundleresources.choosing-the-location-services-authorization-to-request.md)
+            * TODO:
+            * [NSLocationWhenInUseUsageDescription](documentation.bundleresources.information-property-list.nslocationwheninuseusagedescription.md)
+            * [NSLocationAlwaysAndWhenInUseUsageDescription](documentation.bundleresources.information-property-list.nslocationalwaysandwheninuseusagedescription.md)
+            * TODO:
           * TODO:
         * TODO:
       * AVFoundation
